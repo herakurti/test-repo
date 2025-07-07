@@ -1,3 +1,3 @@
 # GIT and GITHUB - The Full Course
 
-A fast-paced course for getting up to speed with Git and Github
+A fact-paced course for getting up to speed with Git and Github
